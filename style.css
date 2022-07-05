@@ -1,0 +1,78 @@
+/* same degine */
+body {}
+
+body h1 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 45px;
+}
+
+body p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+body h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+footer {}
+
+footer h1 {
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    font-size: 36px;
+}
+
+footer p {
+    font-family: 'Manrope', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+/*  */
+
+/* header section  */
+.header-section {}
+
+.header-section h1 {
+    font-size: 65px;
+}
+
+/*  */
+
+/* donation section */
+.donation-section {}
+
+.donation-item {}
+
+.donation-item h2 {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+/*  */
+
+/*  donate plan section */
+.donate-plan-section {}
+
+.donate-plan-item {}
+
+.donate-plan-item h2 {
+    font-size: 24px;
+}
+
+.donate-plan-item p {
+    font-size: 16px;
+}
+
+/*  */
+
+/* Get My Updates */
+.get-updates-section {}
+
+/*  */
+
+/*  */
