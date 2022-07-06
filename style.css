@@ -256,7 +256,7 @@ footer p {
 /* Get My Updates */
 .get-updates-section {
     text-align: center;
-    padding-top: 90px;
+    padding-top: 0px;
 }
 
 .get-updates-section p {
@@ -317,5 +317,33 @@ top: 3518px; */
 
 
 /*  */
+.situation-section {
+    padding: 45px;
+    margin: 25px;
+}
+
+.situation-text {
+    text-align: initial;
+    margin-right: 50px;
+}
+
+.situation-image {
+    margin-right: 120px;
+}
+
+.situation-text p {
+    padding: 10px;
+
+    color: #707070;
+
+
+}
+
+.half-with {
+    /* width: 50%;
+    /* float: left; */
+    /* margin-left: 5%;
+    padding-left: 2%; */
+}
 
 /*  */
