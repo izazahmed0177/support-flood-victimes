@@ -157,9 +157,40 @@ footer p {
 /*  */
 
 /*  donate plan section */
-.donate-plan-section {}
+.donate-plan-section {
+    text-align: center;
+    padding-top: 140px;
+}
 
-.donate-plan-item {}
+.donate-plan-section h1 {
+    color: #121212;
+}
+
+.donate-plan-section p {
+    color: #707070;
+    padding: 30px;
+}
+
+.donate-plan-item {
+    padding-top: 40px;
+    margin-left: 120px;
+
+}
+
+.donate-plan-box {
+    background: #FFEEEE;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+    width: 360px;
+    height: 352px;
+    padding: 40px;
+    margin: 12px;
+}
+
+.donate-icons {
+    width: 53px;
+    height: 53px;
+}
 
 .donate-plan-item h2 {
     font-size: 24px;
